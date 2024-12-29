@@ -25,12 +25,12 @@ class Solution(object):
             #update the head 
             prev.next = second
 
+            #update pointers
             prev = curr
             curr = next
 
         return dummy.next
 
-            #update pointers
             
 
 
