@@ -11,6 +11,7 @@
 - **Problem 18:** 4Sum
 - **Problem 24:** Swap Nodes in Pairs
 - **Problem 76:** Minimum Window Substring
+- **Problem 84:** Largest Rectangle in Histogram
 - **Problem 92:** Reverse Linked List II
 - **Problem 141:** Linked List Cycle
 - **Problem 167:** Two Sum II - Input Array Is Sorted
@@ -24,5 +25,3 @@
 - **Problem 560:** Subarray Sum Equals K
 - **Problem 643:** Maximum Average Subarray I
 - **Problem 739:** Daily Temperatures
-- **Problem 84:** Largest Rectangle in Histogram
-
