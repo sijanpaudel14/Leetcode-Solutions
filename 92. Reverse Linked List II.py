@@ -1,3 +1,9 @@
+class ListNode():
+    def __init__(self, val):
+        self.val = val
+        self.next = next
+
+
 class Solution:
     def reverseBetween(self, head, left, right):
         dummy = ListNode(0, head)
