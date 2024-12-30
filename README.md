@@ -17,8 +17,11 @@
 - **Problem 167:** Two Sum II - Input Array Is Sorted
 - **Problem 202:** Happy Number
 - **Problem 206:** Reverse Linked List
+- **Problem 215:** Kth Largest Element in an Array
 - **Problem 287:** Find the Duplicate Number
 - **Problem 303:** Range Sum Query - Immutable
+- **Problem 347:** Top K Frequent Elements
+- **Problem 373:** Find K Pairs with Smallest Sums.py
 - **Problem 396:** Rotate Function
 - **Problem 496:** Next Greater Element I
 - **Problem 525:** Contiguous Array
