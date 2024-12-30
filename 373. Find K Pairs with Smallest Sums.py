@@ -54,8 +54,6 @@ Add the next pair: (1 + 6, 0, 2) → heap = [(7, 0, 2), (9, 1, 0), (13, 2, 0)]
 Result: [[1, 2], [1, 4]]
 Step 4: Extract the next smallest pair (7, 0, 2), which corresponds to [1, 6].
 
-Result: [[1, 2], [1, 4], [1, 6]]
-
-
+Result: [[1, 2], [1, 4], [1, 6]] 
 '''
 
