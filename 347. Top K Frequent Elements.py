@@ -15,7 +15,7 @@ class Solution:
             
             # If the heap size exceeds k, remove the smallest frequency element
             if len(min_heap) > k:
-                heapq.heappop(min_heap)
+                heapq.heappop(min_heap) 
         
         # Step 4: Return only the numbers (second part of each tuple in the heap)
         return [num for freq, num in min_heap]
