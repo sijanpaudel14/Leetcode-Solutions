@@ -19,6 +19,6 @@ class Solution:
                 heapq.heappop(min_heap)
         
         # The root of the heap is the k-th largest element
-        return min_heap[0]   
+        return min_heap[0]    
 
 
