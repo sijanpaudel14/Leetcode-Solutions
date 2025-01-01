@@ -15,7 +15,7 @@ class Solution(object):
         for start, end in intervals:
             if start >= prev_end:
                 # No overlap, update the end of the last non-overlapping interval
-                prev_end = end
+                prev_end = end 
             else:
                 # Overlap detected, increment removal count
                 count += 1
