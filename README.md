@@ -10,6 +10,8 @@
 - **Problem 15:** 3Sum
 - **Problem 18:** 4Sum
 - **Problem 24:** Swap Nodes in Pairs
+- **Problem 56:** Merge Intervals
+- **Problem 57:** Insert Interval
 - **Problem 76:** Minimum Window Substring
 - **Problem 84:** Largest Rectangle in Histogram
 - **Problem 92:** Reverse Linked List II
@@ -23,6 +25,7 @@
 - **Problem 347:** Top K Frequent Elements
 - **Problem 373:** Find K Pairs with Smallest Sums.py
 - **Problem 396:** Rotate Function
+- **Problem 435:** Non-overlapping Interval
 - **Problem 496:** Next Greater Element I
 - **Problem 525:** Contiguous Array
 - **Problem 560:** Subarray Sum Equals K

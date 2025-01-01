@@ -1,4 +1,4 @@
-def largestRectangleArea(self, height):
+def largestRectangleArea(height):
     # Append a 0 to the end of the height list to ensure that all remaining elements
     # in the stack will be processed at the end of the loop.
     height.append(0)
