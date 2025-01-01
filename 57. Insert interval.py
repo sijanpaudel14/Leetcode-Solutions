@@ -27,7 +27,7 @@ class Solution(object):
                 else:
                     # There is overlap, so merge the current interval with the last one in merge
                     # Update the end of the last interval in merge to be the maximum of the current interval's end and the last interval's end
-                    merge[-1][1] = max(interval[1], merge[-1][1])
+                    merge[-1][1] = max(interval[1], merge[-1][1]) 
             
             # Step 5: Return the list of merged intervals
             return merge
