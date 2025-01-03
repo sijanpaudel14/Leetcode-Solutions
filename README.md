@@ -10,16 +10,22 @@
 - **Problem 15:** 3Sum
 - **Problem 18:** 4Sum
 - **Problem 24:** Swap Nodes in Pairs
+- **Problem 33:** Search in Rotated Sorted Array
 - **Problem 56:** Merge Intervals
 - **Problem 57:** Insert Interval
 - **Problem 76:** Minimum Window Substring
 - **Problem 84:** Largest Rectangle in Histogram
 - **Problem 92:** Reverse Linked List II
+- **Problem 107:** Binary Tree Level Order Traversal II
+- **Problem 124:** Binary Tree Maximum Path Sum
 - **Problem 141:** Linked List Cycle
+- **Problem 153:** Find Minimum in Rotated Sorted Array
 - **Problem 167:** Two Sum II - Input Array Is Sorted
 - **Problem 202:** Happy Number
 - **Problem 206:** Reverse Linked List
 - **Problem 215:** Kth Largest Element in an Array
+- **Problem 230:** Kth Smallest Element in a BST
+- **Problem 257:** Binary Tree Paths
 - **Problem 287:** Find the Duplicate Number
 - **Problem 303:** Range Sum Query - Immutable
 - **Problem 347:** Top K Frequent Elements
