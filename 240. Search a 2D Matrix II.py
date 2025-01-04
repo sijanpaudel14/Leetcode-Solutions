@@ -9,7 +9,7 @@ class Solution:
         row, col = 0, len(matrix[0]) - 1
         
         # Iterate through the matrix while within bounds
-        while row < len(matrix) and col >= 0:
+        while row < len(matrix) and col >= 0: 
             if matrix[row][col] == target:
                 return True  # Target found
             elif matrix[row][col] > target:
