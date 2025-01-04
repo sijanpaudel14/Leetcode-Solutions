@@ -10,7 +10,7 @@ class Solution:
             path += str(node.val)
             
             # Step 2: Check if the current node is a leaf (no left or right child)
-            if not node.left and not node.right:
+            if not node.left and not node.right: 
                 # If it's a leaf, append the current path to the result list
                 paths.append(path)
             else:
