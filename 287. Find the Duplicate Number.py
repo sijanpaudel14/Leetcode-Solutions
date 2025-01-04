@@ -12,7 +12,7 @@ class Solution(object):
             fast = nums[nums[fast]]
             if slow == fast:
                 break
-        slow = nums[0]
+        slow = nums[0] 
 
         while slow != fast:
             slow = nums[slow] 
