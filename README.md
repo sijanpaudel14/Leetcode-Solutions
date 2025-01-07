@@ -42,3 +42,4 @@
 - **Problem 560:** Subarray Sum Equals K
 - **Problem 643:** Maximum Average Subarray I
 - **Problem 739:** Daily Temperatures
+- **Problem 994:** Rotten Oranges
