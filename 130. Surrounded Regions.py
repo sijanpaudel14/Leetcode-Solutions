@@ -8,7 +8,7 @@ class Solution(object):
         """
         # Step 1: Validate input
         if not board or not board[0]:  # Ensure the board is non-empty
-            return
+            return 
         
         # Step 2: Get the dimensions of the board
         rows, cols = len(board), len(board[0])
