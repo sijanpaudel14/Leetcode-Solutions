@@ -11,9 +11,12 @@
 - **Problem 18:** 4Sum
 - **Problem 24:** Swap Nodes in Pairs
 - **Problem 33:** Search in Rotated Sorted Array
+- **Problem 46:** Permutations
+- **Problem 51:** N-Queens
 - **Problem 56:** Merge Intervals
 - **Problem 57:** Insert Interval
 - **Problem 76:** Minimum Window Substring
+- **Problem 78:** Subsets
 - **Problem 84:** Largest Rectangle in Histogram
 - **Problem 92:** Reverse Linked List II
 - **Problem 102:** Binary Tree Level Order Traversal
