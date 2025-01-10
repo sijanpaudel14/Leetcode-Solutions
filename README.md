@@ -15,6 +15,7 @@
 - **Problem 51:** N-Queens
 - **Problem 56:** Merge Intervals
 - **Problem 57:** Insert Interval
+- **Problem 70:** Climbing Stairs
 - **Problem 76:** Minimum Window Substring
 - **Problem 78:** Subsets
 - **Problem 84:** Largest Rectangle in Histogram
@@ -38,6 +39,7 @@
 - **Problem 257:** Binary Tree Paths
 - **Problem 287:** Find the Duplicate Number
 - **Problem 303:** Range Sum Query - Immutable
+- **Problem 322:** Coin Change
 - **Problem 347:** Top K Frequent Elements
 - **Problem 373:** Find K Pairs with Smallest Sums.py
 - **Problem 396:** Rotate Function
@@ -48,6 +50,6 @@
 - **Problem 643:** Maximum Average Subarray I
 - **Problem 733:** Flood Fill
 - **Problem 739:** Daily Temperatures
-- **Problem 130:** Surrounded Regions 
+- **Problem 130:** Surrounded Regions
 - **Problem 994:** Rotten Oranges
-
+- **Problem 1143:** Longest Common Substring
