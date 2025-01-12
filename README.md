@@ -38,11 +38,14 @@
 - **Problem 230:** Kth Smallest Element in a BST
 - **Problem 257:** Binary Tree Paths
 - **Problem 287:** Find the Duplicate Number
+- **Problem 300:** Longest Increasing Subsequence
 - **Problem 303:** Range Sum Query - Immutable
+- **Problem 312:** Burst Ballons
 - **Problem 322:** Coin Change
 - **Problem 347:** Top K Frequent Elements
 - **Problem 373:** Find K Pairs with Smallest Sums.py
 - **Problem 396:** Rotate Function
+- **Problem 416:** Parition Equal Subset Sum
 - **Problem 435:** Non-overlapping Interval
 - **Problem 496:** Next Greater Element I
 - **Problem 525:** Contiguous Array
