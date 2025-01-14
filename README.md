@@ -3,12 +3,16 @@
 ## List of Problems
 
 - **Problem 1:** Two Sum
+- **Problem 2:** Add Two Numbers
 - **Problem 3:** Longest Substring Without Repeating Characters
 - **Problem 9:** Palindrome Number
 - **Problem 11:** Container With Most Water
 - **Problem 13:** Roman to Integer
+- **Problem 14:** Longest Common Prefix
 - **Problem 15:** 3Sum
 - **Problem 18:** 4Sum
+- **Problem 20:** Valid Parentheses
+- **Problem 21:** Merge Two Sorted Linked List
 - **Problem 24:** Swap Nodes in Pairs
 - **Problem 33:** Search in Rotated Sorted Array
 - **Problem 46:** Permutations
