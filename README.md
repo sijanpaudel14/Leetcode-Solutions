@@ -14,11 +14,19 @@
 - **Problem 20:** Valid Parentheses
 - **Problem 21:** Merge Two Sorted Linked List
 - **Problem 24:** Swap Nodes in Pairs
+- **Problem 26:** Remove Duplicates from Sorted Array
+- **Problem 27:** Remove element
+- **Problem 28:** Find the Index of the first Occurence in a string
 - **Problem 33:** Search in Rotated Sorted Array
+- **Problem 35:** Search Insert Position 
+- **Problem 94:** Binary Tree Inorder Traversal
+- **Problem 101:** Symmetric Tree 
+- **Problem 104:** Maximum Depth of a Binary Tree
 - **Problem 46:** Permutations
 - **Problem 51:** N-Queens
 - **Problem 56:** Merge Intervals
 - **Problem 57:** Insert Interval
+- **Problem 58:** Length of Last Word
 - **Problem 70:** Climbing Stairs
 - **Problem 76:** Minimum Window Substring
 - **Problem 78:** Subsets
