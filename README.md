@@ -27,6 +27,10 @@
 - **Problem 56:** Merge Intervals
 - **Problem 57:** Insert Interval
 - **Problem 58:** Length of Last Word
+- **Problem 66:** Plus One
+- **Problem 67:** Add Binary 
+- **Problem 83:** Remove Duplicates from Sorted List
+- **Problem 88:** Merge Sorted Array
 - **Problem 70:** Climbing Stairs
 - **Problem 76:** Minimum Window Substring
 - **Problem 78:** Subsets
