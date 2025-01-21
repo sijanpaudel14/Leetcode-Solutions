@@ -29,15 +29,19 @@
 - **Problem 58:** Length of Last Word
 - **Problem 66:** Plus One
 - **Problem 67:** Add Binary 
-- **Problem 83:** Remove Duplicates from Sorted List
-- **Problem 88:** Merge Sorted Array
 - **Problem 70:** Climbing Stairs
 - **Problem 76:** Minimum Window Substring
 - **Problem 78:** Subsets
+- **Problem 83:** Remove Duplicates from Sorted List
 - **Problem 84:** Largest Rectangle in Histogram
+- **Problem 88:** Merge Sorted Array
 - **Problem 92:** Reverse Linked List II
+- **Problem 100:** Same Tree 
 - **Problem 102:** Binary Tree Level Order Traversal
 - **Problem 107:** Binary Tree Level Order Traversal II
+- **Problem 108:** Convert Sorted Array to Binary Search Tree
+- **Problem 110:** Balanced Binary Tree
+- **Problem 111:** Minimum Depth of Binary Tree
 - **Problem 113:** Path Sum II
 - **Problem 124:** Binary Tree Maximum Path Sum
 - **Problem 130:** Surrounded Regions
