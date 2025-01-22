@@ -42,7 +42,11 @@
 - **Problem 108:** Convert Sorted Array to Binary Search Tree
 - **Problem 110:** Balanced Binary Tree
 - **Problem 111:** Minimum Depth of Binary Tree
+- **Problem 112:** Path Sum
 - **Problem 113:** Path Sum II
+- **Problem 118:** Pascal's Triangle
+- **Problem 119:** Pascal's Triangle II
+- **Problem 121:** Best Time to Buy and Sell Stock
 - **Problem 124:** Binary Tree Maximum Path Sum
 - **Problem 130:** Surrounded Regions
 - **Problem 133:** Clone Graph
