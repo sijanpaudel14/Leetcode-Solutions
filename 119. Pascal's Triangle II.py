@@ -7,7 +7,7 @@ class Solution(object):
         prev_row = [1]  # Start with the 0th row
         
         for row_num in range(1, rowIndex + 1):
-            # Create the current row based on the previous row
+            # Create the current row based on the previous row 
             curr_row = [1] * (row_num + 1)
             for j in range(1, row_num):
                 curr_row[j] = prev_row[j - 1] + prev_row[j]
