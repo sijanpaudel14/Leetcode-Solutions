@@ -18,9 +18,9 @@
 - **Problem 27:** Remove element
 - **Problem 28:** Find the Index of the first Occurence in a string
 - **Problem 33:** Search in Rotated Sorted Array
-- **Problem 35:** Search Insert Position 
+- **Problem 35:** Search Insert Position
 - **Problem 94:** Binary Tree Inorder Traversal
-- **Problem 101:** Symmetric Tree 
+- **Problem 101:** Symmetric Tree
 - **Problem 104:** Maximum Depth of a Binary Tree
 - **Problem 46:** Permutations
 - **Problem 51:** N-Queens
@@ -28,7 +28,7 @@
 - **Problem 57:** Insert Interval
 - **Problem 58:** Length of Last Word
 - **Problem 66:** Plus One
-- **Problem 67:** Add Binary 
+- **Problem 67:** Add Binary
 - **Problem 70:** Climbing Stairs
 - **Problem 76:** Minimum Window Substring
 - **Problem 78:** Subsets
@@ -36,7 +36,7 @@
 - **Problem 84:** Largest Rectangle in Histogram
 - **Problem 88:** Merge Sorted Array
 - **Problem 92:** Reverse Linked List II
-- **Problem 100:** Same Tree 
+- **Problem 100:** Same Tree
 - **Problem 102:** Binary Tree Level Order Traversal
 - **Problem 107:** Binary Tree Level Order Traversal II
 - **Problem 108:** Convert Sorted Array to Binary Search Tree
@@ -48,9 +48,13 @@
 - **Problem 119:** Pascal's Triangle II
 - **Problem 121:** Best Time to Buy and Sell Stock
 - **Problem 124:** Binary Tree Maximum Path Sum
+- **Problem 125:** Valid Palindrome
 - **Problem 130:** Surrounded Regions
 - **Problem 133:** Clone Graph
+- **Problem 136:** Single Number
 - **Problem 141:** Linked List Cycle
+- **Problem 144:** Binary Tree Preorder Traversal
+- **Problem 145:** Binary Tree Postorder Traversal
 - **Problem 153:** Find Minimum in Rotated Sorted Array
 - **Problem 167:** Two Sum II - Input Array Is Sorted
 - **Problem 200:** Number of islands
