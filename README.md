@@ -56,7 +56,11 @@
 - **Problem 144:** Binary Tree Preorder Traversal
 - **Problem 145:** Binary Tree Postorder Traversal
 - **Problem 153:** Find Minimum in Rotated Sorted Array
+- **Problem 160:** Intersection of Two Linked List
 - **Problem 167:** Two Sum II - Input Array Is Sorted
+- **Problem 168:** Excel Sheet Column Title
+- **Problem 169:** Majority Element
+- **Problem 171:** Excel Sheet Column Number
 - **Problem 200:** Number of islands
 - **Problem 202:** Happy Number
 - **Problem 206:** Reverse Linked List
