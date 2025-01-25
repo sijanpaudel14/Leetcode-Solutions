@@ -61,6 +61,7 @@
 - **Problem 168:** Excel Sheet Column Title
 - **Problem 169:** Majority Element
 - **Problem 171:** Excel Sheet Column Number
+- **Problem 190:** Reverse Bits
 - **Problem 200:** Number of islands
 - **Problem 202:** Happy Number
 - **Problem 206:** Reverse Linked List
